@@ -18,9 +18,8 @@
 
 * 目標:請使用Data中之11個特徵，來預測風力發電機的發電功率。
 * 此迴歸問題利用R2_score (coefficient of determination) 來評估分數。
-
+  
 =========== Results =============
-**model comparison**
 1. DNN Regression
 * R2 Test:  0.10984360149112637
 * R2 Train:  0.17235688783986436
